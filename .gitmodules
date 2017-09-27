@@ -1,0 +1,9 @@
+[submodule "core"]
+	path = core
+	url = https://github.com/myOwnPortfolio-team/myOwnPortfolio-core.git
+[submodule "editor"]
+	path = editor
+	url = https://github.com/myOwnPortfolio-team/myOwnPortfolio-editor.git
+[submodule "server"]
+	path = server
+	url = https://github.com/myOwnPortfolio-team/myOwnPortfolio-server.git
